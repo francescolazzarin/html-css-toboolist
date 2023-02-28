@@ -1,11 +1,32 @@
 *{
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1{
     display: inline-block;
     font-size: 60px;
-    font-family: Arial, Helvetica, sans-serif;
     font-weight: 700;
     margin-top: auto;
+}
+#taskbutton{
+    background-color: #47ADF1;
+    color:white;
+    border-color: #47ADF1;
+    
+    
+}
+#sectionbutton{
+    background-color: white;
+    color:#CED3D7;
+    border-color:#CED3D7;
+}
+.button{
+    padding: 5px 5px 5px 5px;
+    border-radius: 2px;
+}
+#sezionebottone{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
 }
