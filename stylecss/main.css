@@ -25,19 +25,26 @@ h1{
     padding: 5px 5px 5px 5px;
     border-radius: 2px;
 }
+#sfg{
+    background-color: #F6F8F9;
+}
 #sezionebottone{
+    background-color: white;
     width: 400px;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 0px;
 }
 h4{
     font-weight: 300;
 }
 #list{
+    margin-top: 0px;
     width: 450px;
     margin-left: auto;
     margin-right: auto;
     padding-left: 30px;
+    background-color: white;
 }
 span{
     border:1px solid green;
@@ -48,4 +55,26 @@ span{
     border: 1px solid red;
     border-radius: 50%;
     color: red;
+}
+.bottone{
+    border: 1px solid;
+    border-radius: 3px;
+    background-color: #45ABEA;
+    color: white;
+}
+#goals{
+    background-color: #9C72E4;
+}
+#recruit{
+    background-color: #64C0A9;
+}
+#mobile{
+    background-color: #F29E33;
+}
+#sito{
+    background-color: #D863A1;
+    
+}
+#sales{
+    background-color: #B0C926;
 }
