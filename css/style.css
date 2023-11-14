@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+main{
+    background-color:rgb(212, 212, 212, 0.3);
+    padding-top :60px;
+}
+h1{
+    padding: 10px 0;
+}
+h1,h4{
+    display: inline-block;
+    font-family: Arial;
+}
+.btn{
+    padding: 5px;
+    border-radius: 5px;
+}
+.bgc_blu{
+    background-color: rgb(63, 128, 225);
+    color: white;
+    border: none;
+}
+.bgc_white{
+    background-color: white;
+    color: lightgrey;
+    border-color: lightgrey;
+}
+.logo img{
+    vertical-align: middle;
+}
+.container{
+    max-width: 60%;
+    margin: 0 auto;
+    background-color: white;
+}
+.margin_b10{
+    margin-bottom: 10px;
+}
+.cerchio{
+    border: 1px solid;
+    border-radius: 50%;
+    padding: 2px;
+}
+.verde{
+    color: green;
+}
+.border_radius5{
+    border-radius: 5px;
+}
+.color_white{
+    color: white;
+}
+.spaziatura{
+    padding: 3px;
+}
+.bgc_purple{
+    background-color: purple;
+}
+.rosso{
+    color: red;
+}
+.bgc_green{
+    background-color: green;
+}
+.bgc_orange{
+    background-color: orangered;
+}
+.margin_b40{
+    margin-bottom: 40px;
+}
+.bgc_viola{
+    background-color: blueviolet;
+}
+.bgc_giallo{
+    background-color: yellow;
+}
+.padding_b40{
+    padding-bottom: 40px;
+}
